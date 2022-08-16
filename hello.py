@@ -1,10 +1,11 @@
 
-name = 'Сергей11'
+name = 'Сергей Тереханов'
 
-print(name)
+first_name = 'Сергей'
+second_name = 'Тереханов'
 
-print(name)
+full_name = f'Привет уважаемый {first_name} {second_name} !'  
 
-full_name = {'first_name ':'Сергей', 'second_name ':'Тереханов'}
-
-print(full_name ['first_name'])
+print(len(full_name))
+print("Привет мир")
+print(1/1)

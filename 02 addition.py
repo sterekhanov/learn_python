@@ -3,11 +3,9 @@ name = 'Сергей'
 
 print(name)
 
-full_name = {'first_name':'Сергей',
-             'second_name':'Тереханов'
-            }
+full_name = {'first_name':'Сергей', 'second_name':'Тереханов'}
 
-print(full_name['first_name'])
+print(full_name ['first_name'])
 
 example_list = [3, 5, 7, 9, 10.5]
 

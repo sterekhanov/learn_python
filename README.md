@@ -1,2 +1,2 @@
 # learn_python
-this is my new try to find myself
+almost 44 and this is my new try to find myself

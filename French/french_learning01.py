@@ -1,9 +1,20 @@
-name = 'Урок 1'
-
 first_name = 'Сергей '
 second_name = 'Тереханов'
 
 full_name = f'{first_name} {second_name}!'  
 
-lesson_01_words = ('cette', 'la salle', 'est' )
-lesson_01_phrases = ('Cette salle est très claire', 'Adèle est malade.', 'Elle a mal à la tête.', 'Claire marche', 'Elle va à la gare.', 'Elle traverse la place', 	'ette place est belle.', 'C'est Claire', 'C'est sa mère', 'Claire aime sa mère' )
+Words_01={1: 'cette', 2: 'la salle', 3: 'est'}
+
+Phrases_01 ={1: 'Cette salle est très claire', 
+             2: 'Adèle est malade.', 
+             3: 'Elle a mal à la tête.', 
+             4: 'Claire marche', 
+             5: 'Elle va à la gare.', 
+             6: 'Elle traverse la place', 
+             7: 'Cette place est belle.', 
+             8: 'C est Claire', 
+             9: 'C est sa mère', 
+             10: 'Claire aime sa mère'}
+
+
+print("Words of lesson 1: ", Words_01)

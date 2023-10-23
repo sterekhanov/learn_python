@@ -18,3 +18,7 @@ Phrases_01 ={1: 'Cette salle est très claire',
 
 
 print("Words of lesson 1: ", Words_01)
+
+print("-------------------")
+
+print("Words of lesson 1: ", Phrases_01)

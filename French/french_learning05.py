@@ -3,7 +3,7 @@ second_name = 'Тереханов'
 
 full_name = f'{first_name} {second_name}!'  
 
-Words_01={1: 'Elle se leve - Она встает', 
+Words_07={1: 'Elle se leve - Она встает', 
           2: 'six - шесть', 
           3: 'l\'heure - час', 
           4: 'le', 
@@ -12,21 +12,31 @@ Words_01={1: 'Elle se leve - Она встает',
           7: 'la petit dejeuner - завтрак', 
           8: 'dejeuner', 
           9: 'Je', 
-          10: 'Elle traverse',
-          11: 'belle',
-          12:  'C\'est', 
-          13: 'la mere', 
-          14: 'Elle aime',
-          15: 'Marcek met',
-          16: 'la veste',
-          17: 'beige - бежевый',
-          18: 'ma', 
-          19: 'ta', 
-          20: 'la table', 
-          21: 'la chaise'
+          10: 'Je lis  - я читаю',
+          11: 'се - этот',
+          12: 'regarder - смотреть', 
+          13: 'l\'image - картина', 
+          14: 'j\'achet - я покупаю',
+          15: 'la fleur - цветок',
+          16: 'je vais - я иду',
+          17: 'l\'ami - друг',
+          18: 'l\'amiе - подруга', 
+          19: 'la fabrique - фабрика', 
+          20: 'le pied - нога', 
+          21: 'a pied - пешком', 
+          22: 'jeune - молодой',
+          23: 'la jeune fille - молодая девушка',
+          24: 'prenez - возьмите',
+          25: 'lesez - читайте',
+          26: 'la page - страница', 
+          19: 'neuf - девять ', 
+          20: 'aprenez - выучите',
+          21: 'par cour - наизусть',
+          21: 'le cour - сердце',
+          21: 'que', 
          }
 
-Phrases_01 ={1: 'Cette salle est très claire', 
+Phrases_07 ={1: 'Cette salle est très claire', 
              2: 'Adèle est malade.', 
              3: 'Elle a mal à la tête.', 
              4: 'Claire marche', 
@@ -39,6 +49,6 @@ Phrases_01 ={1: 'Cette salle est très claire',
 
 
 print("-------------------")
-print("Words of lesson 1: ", Words_01)
+print("Words of lesson 1: ", Words_07)
 print("-------------------")
-print("Phrases of lesson 1: ", Phrases_01)
+print("Phrases of lesson 1: ", Phrases_07)

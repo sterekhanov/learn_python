@@ -3,7 +3,7 @@ second_name = 'Тереханов'
 
 full_name = f'{first_name} {second_name}!'  
 
-Words_07={1: 'Elle se leve - Она встает', 
+Words_07={1: 'Elle se leve -  Она встает', 
           2: 'six - шесть', 
           3: 'l\'heure - час', 
           4: 'le', 
@@ -36,10 +36,10 @@ Words_07={1: 'Elle se leve - Она встает',
           21: 'que', 
          }
 
-Phrases_07 ={1: 'Cette salle est très claire', 
-             2: 'Adèle est malade.', 
-             3: 'Elle a mal à la tête.', 
-             4: 'Claire marche', 
+Phrases_07 ={1: 'Denise se lève à six heures', 
+             2: 'Elle prépare le petit déjeuner et elle déjeune..', 
+             3: 'Je lis ce livre et je regarde les images.', 
+             4: 'J\'achète des fleurs et vais chez mes amis.', 
              5: 'Elle va à la gare.', 
              6: 'Elle traverse la place', 
              7: 'Cette place est belle.', 

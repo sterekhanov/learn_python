@@ -3,7 +3,7 @@ second_name = 'Тереханов'
 
 full_name = f'{first_name} {second_name}!'  
 
-Words_01={1: 'cette', 
+Words_02={1: 'cette', 
           2: 'la salle', 
           3: 'est', 
           4: 'tres', 
@@ -26,7 +26,7 @@ Words_01={1: 'cette',
           21: 'la chaise - кресло'
          }
 
-Phrases_01 ={1: 'Cette salle est très claire', 
+Phrases_02 ={1: 'Cette salle est très claire', 
              2: 'Adèle est malade.', 
              3: 'Elle a mal à la tête.', 
              4: 'Claire marche', 

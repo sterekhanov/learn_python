@@ -3,40 +3,40 @@ second_name = 'Тереханов'
 
 full_name = f'{first_name} {second_name}!'  
 
-Words_07={1: 'Elle se leve -  Она встает', 
-          2: 'six - шесть', 
-          3: 'l\'heure - час', 
-          4: 'le', 
-          5: 'petit, petite - маленький', 
-          6: 'le dejeuner',
-          7: 'la petit dejeuner - завтрак', 
-          8: 'dejeuner', 
-          9: 'Je', 
-          10: 'Je lis  - я читаю',
-          11: 'се - этот',
-          12: 'regarder - смотреть', 
-          13: 'l\'image - картина', 
-          14: 'j\'achet - я покупаю',
-          15: 'la fleur - цветок',
-          16: 'je vais - я иду',
-          17: 'l\'ami - друг',
-          18: 'l\'amiе - подруга', 
-          19: 'la fabrique - фабрика', 
-          20: 'le pied - нога', 
-          21: 'a pied - пешком', 
-          22: 'jeune - молодой',
-          23: 'la jeune fille - молодая девушка',
-          24: 'prenez - возьмите',
-          25: 'lesez - читайте',
-          26: 'la page - страница', 
-          19: 'neuf - девять ', 
-          20: 'aprenez - выучите',
-          21: 'par cour - наизусть',
-          21: 'le cour - сердце',
-          21: 'que', 
-         }
+Words_05= ["Elle se leve -  Она встает", 
+           "six - шесть", 
+           "l\'heure - час", 
+           "le", 
+           "petit, petite - маленький", 
+           "le dejeuner",
+           "la petit dejeuner - завтрак", 
+           "dejeuner", 
+           "Je", 
+           "Je lis  - я читаю",
+           "ce - этот",
+           "regarder - смотреть", 
+           "l\'image - картина", 
+           "j\'achet - я покупаю",
+           "la fleur - цветок",
+           "je vais - я иду",
+           "l\'ami - друг",
+           "l\'amie - подруга", 
+           "la fabrique - фабрика", 
+           "le pied - нога", 
+           "a pied - пешком", 
+           "jeune - молодой",
+           "la jeune fille - молодая девушка",
+           "prenez - возьмите",
+           "lesez - читайте",
+           "la page - страница", 
+           "neuf - девять", 
+           "aprenez - выучите",
+           "par cour - наизусть",
+           "le cour - сердце",
+           "que" 
+         ]
 
-Phrases_07 ={1: 'Denise se lève à six heures', 
+Phrases_05 ={1: 'Denise se lève à six heures', 
              2: 'Elle prépare le petit déjeuner et elle déjeune..', 
              3: 'Je lis ce livre et je regarde les images.', 
              4: 'J\'achète des fleurs et vais chez mes amis.', 
@@ -48,7 +48,10 @@ Phrases_07 ={1: 'Denise se lève à six heures',
              10: 'Claire aime sa mère'}
 
 
+print(full_name) 
 print("-------------------")
-print("Words of lesson 1: ", Words_07)
+print("Words of lesson 7: ", Words_05)
 print("-------------------")
-print("Phrases of lesson 1: ", Phrases_07)
+#print("Phrases of lesson 7: ", Phrases_05)
+print("-------------------")
+print(Words_05.index("que"))
